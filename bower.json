@@ -1,0 +1,21 @@
+{
+  "name": "QMalcolm Dashboard",
+  "main": "dashboard.js",
+  "version": "0.1",
+  "homepage": "http://qmalcolm.com",
+  "authors": [
+    "Thomas Malcolm <tqmalcolm@gmail.com>"
+  ],
+  "description": "Dashboard for QMalcolm servives",
+  "license": "N/A",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-nvd3": "~1.0.5",
+    "d3": "~3.5.8",
+    "nvd3": "~1.8.1"
+  },
+  "resolutions": {
+  }
+}

@@ -1,0 +1,18 @@
+ {
+  "name": "qmalcolm",
+  "version": "0.1.0",
+  "description": "My personal site",
+  "devDependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QMalcolm/personalSite.git"
+  },
+  "author": "Thomas Malcolm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QMalcolm/personalSite/issues"
+  },
+  "homepage": "https://github.com/QMalcolm/personalSite#readme"
+}
