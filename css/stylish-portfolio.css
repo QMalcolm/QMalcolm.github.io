@@ -16,6 +16,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.c_white {
+    color:white;
+}
+
 .text-stroke {
     color: white;
     text-shadow:
